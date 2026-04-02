@@ -233,7 +233,7 @@ async def cmd_start(message: Message):
         "  • G → <code>Yangi balans</code>\n"
         "  • H → <code>Min</code>\n"
         "  • I → <code>Max</code>\n\n"
-        "⚠️ <i>Faqat birinchi sheet o'qiladi!</i>\n"
+        "⚠️ <i>Faqat svod sheet o'qiladi!</i>\n"
         "📎 <i>.xlsx yoki .xls fayl yuboring</i>",
         parse_mode="HTML",
     )
